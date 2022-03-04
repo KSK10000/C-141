@@ -1,0 +1,39 @@
+.heading
+{
+    width: 100%;
+}
+.heading h3
+{
+    display: inline;
+}
+.heading button
+{
+    float: right;
+    border-color: blue;
+}
+#play, #status
+{
+    font-size: 20px;
+}
+.modal-dialog
+{
+    width: 90%;
+}
+.modal-body
+{
+    text-align: left;
+    font-size: 20px;
+}
+.footer
+{
+    background-color: gray;
+    line-height: 2;
+    margin: 0px;
+    text-align: center;
+    font-size: 20px;
+}
+canvas
+{
+    border-color: blue;
+    box-shadow: 3px 3px 3px blue;
+}
